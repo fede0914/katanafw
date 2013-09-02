@@ -6,7 +6,7 @@ var katana = {
 		for(var name in o){
 			e[name] = o[name];
 		}
-
+/*probando a ver */
 		return e;
 	},
 	obt: function(e){
