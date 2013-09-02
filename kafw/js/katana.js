@@ -16,7 +16,7 @@ var katana = {
 			return katana.extend(e, katana);
 		}
 			
-
+	/* comamamama */
 	},
 	esc: function(txt){
 		return this.innerHTML = txt;
